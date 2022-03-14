@@ -1,3 +1,7 @@
+# Nota Importante!
+
+Eu coloquei e criei o código com os arquivos .csv do projeto dentro da pasta **Teste**, ou seja, não pesquisei os arquivos de dentro do meu computador. 
+
 # Projeto do módulo
 
 Com base nos arquivos oscar_age_male.csv e oscar_age_female.csv, escreva uma aplicação utilizando o framework Java Streams API para responder as seguintes funcionalidades:
