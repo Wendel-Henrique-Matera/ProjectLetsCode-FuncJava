@@ -1,6 +1,6 @@
 # Nota Importante!
 
-Eu coloquei e criei o código com os arquivos .csv do projeto dentro da pasta **Teste**, ou seja, não pesquisei os arquivos de dentro do meu computador. 
+Eu coloquei e criei o código com os arquivos .csv do projeto dentro da pasta **Teste** (pasta onde os arquivos do projeto, como out ou src, ficam), ou seja, não pesquisei os arquivos de dentro do meu computador. 
 
 # Projeto do módulo
 
